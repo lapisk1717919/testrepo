@@ -1,4 +1,10 @@
+get repo on computer:
 - git clone (repo link)
+
+push to git:
 - git stage .
 - git commit -m "changes made"
 - git push
+
+pull from git:
+- git pull
