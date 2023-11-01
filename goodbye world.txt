@@ -1,1 +1,4 @@
-2 files
+- git clone (repo link)
+- git stage .
+- git commit -m "changes made"
+- git push
